@@ -45,7 +45,7 @@ for i in range(100):
     iOS_Top_100['A' + str(i+2)] = List[i][0]
     iOS_Top_100['B' + str(i+2)] = List[i][1]
 
-Top_100_Mobile.save('F:\\academic\\jobs\\jobs\\gameopedia\\work\\Automation\\Scrapper\\Games_List.xlsx')
+Top_100_Mobile.save('F:\\jobs\\Games_List.xlsx')
 
 
 
